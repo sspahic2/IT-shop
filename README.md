@@ -19,11 +19,12 @@ Korisnik će imati opciju da sam "sastavi" svoj idealni računar. Ako to ne žel
 - Korisnik 
     - sve mogućnosti opisane pod opcijom "Gost"
     - mogućnost kupovine željenih proizvoda
+    - mogućnost slanja zahtjeva za izgradnju svog idealnog računara
     - mogućnost dobivanja naših sugestija zavisno od proizvoda i njegove namjene
     - ostavljanje recenzija na kupljene proizvode
     - testiranje određenih specifikacija proizvoda
     - mogućnost dodatne registracije kao "Student" za ostvarivanje popusta
-    - mogućnost da obriše svoj korisnički račun
+    - mogućnost brisanja svog korisničkog računa
 
 - Student
     - sve mogućnosti opisane pod opcijom "Korisnik"
