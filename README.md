@@ -1,7 +1,7 @@
 # Tim
-    - (Ahmed Pašić) [https://github.com/ahmedpasic]
-    - (Elma Šerement) [https://github.com/eseremet1]
-    - (Sabahudin Spahić) [https://github.com/sspahic2]
+    (Ahmed Pašić)[https://github.com/ahmedpasic/]
+    (Elma Šerement)[https://github.com/eseremet1/]
+    (Sabahudin Spahić)[https://github.com/sspahic2/]
 
 # IT-shop
 IT shop je prvi korak prema “sve na jednom mjestu” za sve vrste proizvoda i usluga koje pruža odjel za informatičke usluge. U svom trenutnom razvojnom studiju omogućuje korisnicima da lahko kupuju hardver potreban za rad, videoigre, studije, istraživanje i proučavanje.
