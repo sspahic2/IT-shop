@@ -16,3 +16,21 @@ Korisnik će imati opciju da sam "sastavi" svoj idealni računar. Ako to ne žel
     - Primanje zahtjeva od korisnika za izgradnju racunara
     - Pracenje trenutacnih proizvoda za koje je dati uposlenik zaduzen
     - ...
+    
+3. Gost:
+   -mogućnost pregleda osnovnih informacija našeg ITShopa,
+   -mogućnost čitanja recenzija za željeni proizvod,
+   -mogućnost pregleda ponuda koje nudi ITShop,
+   -mogućnost registracije,odnosno kreiranja korisničkog računa koji donosi određene pogodnosti navedene pod opcijom "Korisnik"
+
+4. Korisnik 
+   -sve mogućnosti opisane pod opcijom "Gost",
+   -mogućnost kupovine željenih proizvoda,
+   -mogućnost dobivanja naših sugestija zavisno od proizvoda i njegove namjene,
+   -ostavljanje recenzija na kupljene proizvode,
+   -testiranje određenih specifikacija proizvoda,
+   -mogućnost dodatne registracije kao "Student" za ostvarivanje popusta
+
+5. Student
+   -sve mogućnosti opisane pod opcijom "Korisnik",
+   -mogućnost određenih popusta
