@@ -1,7 +1,7 @@
 # Tim
-    - [Ahmed Pašić](https://github.com/ahmedpasic/)
-    - [Elma Šeremet](https://github.com/eseremet1/)
-    - [Sabahudin Spahić](https://github.com/sspahic2/)
+    - [Ahmed Pašić](http://github.com/ahmedpasic/)
+    - [Elma Šeremet](http://github.com/eseremet1/)
+    - [Sabahudin Spahić](http://github.com/sspahic2/)
     
 
 # IT-shop
