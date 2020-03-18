@@ -1,5 +1,5 @@
 # Tim
-    https://www.github.com
+    https://www.github.com/
     [Ahmed Pašić]: https://www.github.com
     [Elma Šeremet](https://www.github.com/eseremet1)
     [Sabahudin Spahić](https://www.github.com/sspahic2)
