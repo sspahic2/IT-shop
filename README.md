@@ -38,10 +38,11 @@ Korisnik će imati opciju da sam "sastavi" svoj idealni računar. Ako to ne žel
     - Praćenje trenutačnih proizvoda za koje je dati uposlenik zadužen
 
 - Administrator:
+    - sve mogućnosti opisane pod opcijom "Uposlenik"
     - Ima punu moć nad aplikacijom
     - Može da zapošljava uposlenike
     - Brisanje neprimjerenih recenzija
     - Uklanjanje proizvoda koji više nisu u ponudi
-    - Sve opcije kao uposlenik, ali i više
+    
 
     
