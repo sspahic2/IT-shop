@@ -9,11 +9,11 @@ ITshop je prvi korak prema “sve na jednom mjestu” za sve vrste proizvoda i u
 Korisnik će imati opciju da sam "sastavi" svoj idealni računar. Ako to ne želi, za odabrani iznos može dobiti računar sastavljen od strane naših uposlenika. Korisnik nam saopšti svoje potrebe, a mi pravimo računar idealan za navedenu svrhu. Kupovina je moguća samo ukoliko je korisnik prijavljen, a uz to, ukoliko je u pitanju student, ima brojne pogodnosti prilikom kupovanja hardvera. Nakon narudžbe, vaš računar, ili vaše komponente, bit će dostavljene na vašu kućnu adresu.
 
 # Akteri
-Korisnik
-Gost
-Student
-Uposlenik
-Administrator
+- Korisnik
+- Gost
+- Student
+- Uposlenik
+- Administrator
 
 ## Funkcionalnost
 
