@@ -14,6 +14,7 @@ Gost
 Student
 Uposlenik
 Administrator
+
 ## Funkcionalnost
 
 - Gost:
